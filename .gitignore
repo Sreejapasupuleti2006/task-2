@@ -26,3 +26,20 @@ replay_pid*
 .settings/
 *.DS_Store
 Thumbs.db
+
+# Vivado temporary and generated files
+*.jou
+*.str
+.Xil/
+*.cache/
+*.runs/
+*.hw/
+*.sim/
+*.ip_user_files/
+
+# MATLAB temporary and generated files
+*.asv
+*.autosave
+slprj/
+*.mex*
+*.mat
